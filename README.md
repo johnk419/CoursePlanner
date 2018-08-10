@@ -4,7 +4,7 @@ A course planner application that takes a .csv file of course data and displays 
 
 ## Installing
 
-Download the executable .zip file from the releases page, extract the files and run the .jar file.
+Download the executable .zip file from the [releases page](https://github.com/johnk419/CoursePlanner/releases), extract the files and run the .jar file.
 
 ## Built With
 
