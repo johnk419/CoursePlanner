@@ -14,10 +14,6 @@ Eclipse
 
 * **John Kim** 
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 * **Brian Fraser** - *Professor who provided instruction for this project* - [Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
